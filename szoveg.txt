@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ez egy szoveg bizony
+=======
+ez egy szoveg, akarmi mehet ide
+>>>>>>> 14452e434f9abf0c812dd4bb8d59afc9e23dab1c
